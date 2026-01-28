@@ -1,3 +1,29 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+}
+
+html{
+	height: 100vh;
+}
 body{
 	background-color: orange;
+	height: 100%;
+}
+
+.header{
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+.main{
+	background-color: lightsalmon;
+	height: 100%;
+	width: 50%;
+	margin: auto;
+}
+.footer{
+	background-color: brown;
+	color: antiquewhite;
+	text-align: center;
 }
