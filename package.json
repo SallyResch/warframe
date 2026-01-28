@@ -1,0 +1,19 @@
+{
+  "name": "warframe",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Warframe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch index.js"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Sally Resch",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
